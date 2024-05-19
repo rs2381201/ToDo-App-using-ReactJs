@@ -1,8 +1,17 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple ToDo application built using ReactJS, HTML, CSS, and JavaScript. The app allows users to efficiently manage their tasks by providing the ability to add, delete tasks.
 
-Currently, two official plugins are available:
+Getting Started
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Prerequisites
+Node.js: Ensure that Node.js is installed on your machine. You can download it from Node.js.
+Installation:
+Navigate to the project directory:
+cd todo-react-app
+Install the dependencies:
+npm install
+Running the Application
+To start the application on your local machine, run the following command:
+npm start
